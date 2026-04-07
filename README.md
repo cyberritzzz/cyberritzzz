@@ -55,9 +55,7 @@ sudo -l
 
 ---
 
-### 😂 Fun (and totally true) Dev Quote
-
-> “Found a vulnerability? Celebrate. Accidentally DoSed the server? Celebrate quietly.” 🧨🎉
+> “Converting time and Patience into fucking money, means a lot of money” 🧨🎉
 
 ---
 
