@@ -12,11 +12,10 @@
 ### 🧠 About Me
 
 🔍 Passionate Pentester & Bug Bounty Hunter.  
-🛡️ Solving real-world security challenges and uncovering vulnerabilities.  
-🎯 Completed 130+ hacking labs in a month—self-taught & privilege-escalating pro.  
+🛡️ Solving real-world security challenges and uncovering vulnerabilities.    
 🧬 Currently exploring: Bug Bounty hunting, red teaming, and advanced CTFs.
 
-> 💬 “**Amateurs hack systems, professionals hack people.**” — *Bruce Schneier*
+> 💬 “**Security is just a vulnerable parameter.**” — *cyberritzzz*
 
 ---
 
