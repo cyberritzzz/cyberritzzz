@@ -37,12 +37,6 @@
 
 ---
 
-### 🌐 Connect With Me
-
-[![HackerOne](https://www.hackerone.com/themes/custom/hackerone/logo.svg)](https://hackerone.com/cyberritzzz?type=user)
-
----
-
 ### 💀 Hacker Mode Activated...
 
 ```bash
